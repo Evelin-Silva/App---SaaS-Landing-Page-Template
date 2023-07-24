@@ -13,10 +13,10 @@ Backgound por:
 
 Conteúdo por:
 
-(Budka Damdinsuren)[https://unsplash.com/pt-br/@buudkaanaa]
-(LinkedIn Sales Solutions)[https://unsplash.com/pt-br/@linkedinsalesnavigator]
-(Daniel Thomas)[https://unsplash.com/pt-br/@soy_danielthomas]
-(Roberto Cortese)[https://unsplash.com/pt-br/@robertocortese]
+[Budka Damdinsuren](https://unsplash.com/pt-br/@buudkaanaa)
+[LinkedIn Sales Solutions](https://unsplash.com/pt-br/@linkedinsalesnavigator)
+[Daniel Thomas](https://unsplash.com/pt-br/@soy_danielthomas)
+[Roberto Cortese](https://unsplash.com/pt-br/@robertocortese)
 
 Team por:
 
